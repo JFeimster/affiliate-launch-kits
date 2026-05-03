@@ -27,12 +27,16 @@ Use this section for changes that have been drafted but not yet finalized into a
 - Established Darwin Hanneman as the prototype partner launch kit pattern.
 - Confirmed canonical Darwin launch-kit path: `launch-kits/darwin-hanneman/`.
 - Confirmed canonical Darwin launch-plan path: `launch-kits/darwin-hanneman/launch-plan/darwin-30-day-launch-plan.md`.
+- Added Block 9 reusable templates for one-pagers, weekly trackers, outreach script packs, website prompts, printable handouts, booking events, and Notion database prompts.
+- Added launch-kit starter templates for partner profile, launch-kit index, and 30-day launch plan.
 
 ### Changed
 
 - Clarified `partner-enablement-os` as the human-facing source-of-truth repository for partner enablement assets.
 - Clarified that executable automation logic should live separately when appropriate, with `partner-onboarding-automation` reserved for future automation workflows, schemas, webhook contracts, and integration logic.
 - Removed obsolete Darwin legacy-path migration language from active operating context.
+- Updated `templates/README.md` into a usable template index with recommended duplication paths.
+- Updated `templates/launch-kit-template/README.md` with a stronger launch-kit operating pattern.
 
 ## Changelog rules
 
