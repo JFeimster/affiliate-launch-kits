@@ -1,47 +1,73 @@
-# Attorney Referral Site Prompt
+# Flash-UI Prompt — Attorney Referral Site
 
-Use this prompt to create a landing page for attorney referral conversations.
+**Prompt Type:** Flash-UI static landing page prompt  
+**Use Case:** Referral partner micro-site  
+**Audience:** Small business attorneys, business formation attorneys, contract attorneys, startup/legal advisors  
+**Partner-Specific:** No  
+**Primary Editable Fields:** Application link, booking link, tracked CTA, QR code  
 
-## Asset Status
-
-- Status: Ready
-- Owner: Moonshine Capital
-- Audience: Internal Operator
-- Platform: Flash-UI
-- Last reviewed: 2026-05-03
+---
 
 ## Prompt
 
-```text
-Create a professional landing page for a Moonshine Capital partner focused on attorney referral relationships.
+Create a high-converting static landing page for a commercial funding referral program targeting small business attorneys, business formation attorneys, contract attorneys, and startup/legal advisors.
 
-Goal: help attorneys understand how the partner can serve as a responsible business-capital resource when clients need to review possible funding paths for business needs.
+Brand: Moonshine Capital  
+Page name: Business Funding Referral Resource for Attorneys  
+Audience: attorneys who help clients form, buy, expand, or restructure businesses.  
+Goal: Encourage attorneys to refer clients who need funding options.
+
+Style:
+Premium professional, legal-fintech hybrid. Dark charcoal, deep navy, off-white, subtle gold accent. Should feel trustworthy, restrained, and sharp. No cheesy sales design.
+
+Core message:
+Your clients are building, buying, expanding, or surviving businesses. When funding becomes the next obstacle, give them a clear path to explore options.
 
 Sections:
-1. Hero
-2. Who this helps
-3. Common client situations
-4. Relationship-first support model
-5. Simple process
-6. Professional boundaries
-7. FAQ
-8. Final CTA
-9. Responsible-use footer
 
-Design direction:
-- professional
-- restrained
-- high-trust
-- easy to scan
-- mobile friendly
+1. Hero headline:
+   “A Funding Resource for Business Clients Who Need a Practical Next Step.”
+2. Subheadline:
+   “Refer clients exploring working capital, equipment financing, acquisition-related capital, startup funding paths, or bank-decline alternatives.”
+3. CTA buttons:
+   “Refer a Client”
+   “Book a Partner Call”
+4. Use cases:
+   - new LLC/business formation
+   - acquisition or partnership buyout
+   - equipment purchases
+   - working capital
+   - contract mobilization
+   - expansion
+   - bank decline
+5. Why attorneys refer:
+   - client needs capital but not legal advice
+   - avoid sending clients to random online lenders
+   - provide a vetted funding exploration path
+   - strengthen client relationship
+6. How it works:
+   Intro or link → short application → review → matched next steps.
+7. Professional boundaries section:
+   Moonshine Capital does not provide legal, tax, or accounting advice. Funding options depend on business profile and provider criteria.
+8. Partner CTA:
+   “Want a simple referral handout for your clients?”
+9. QR-code placeholder.
+10. Compliance footer.
 
-Tone: respectful, careful, and useful.
+Placeholder links:
 
-Do not imply legal advice. Do not position the partner as replacing attorneys or professional advisors.
-```
+- Application: `[Partner Application Link]`
+- Booking: `[Partner Booking Link]`
+- Tracked CTA: `[Tracked CTA Link]`
+- QR Code: `[QR Code]`
 
-## Suggested GitHub Output Path
+Prototype placeholder links if needed:
 
-```text
-launch-kits/{partner-name}/websites/flash-ui-prompts/attorney-referral-site.md
-```
+- Application: `https://bit.ly/fundingwithdarwin`
+- Booking: `#book-call`
+
+Generate static HTML/CSS/JS with strong typography, card sections, trust indicators, and mobile responsiveness.
+
+## Generated Site Output Note
+
+If Flash-UI generates static site files such as `index.html`, `styles.css`, and `script.js`, store production-ready site code in a separate deployment repo or an `exports/flash-ui/` reference folder. Do not store generated runtime code inside partner launch kits unless the site is truly partner-specific.
