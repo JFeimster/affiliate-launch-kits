@@ -4,6 +4,25 @@ This folder stores the partner-specific launch assets for Darwin Hanneman.
 
 Darwin is the prototype partner launch kit for the Partner Enablement OS. His assets are built around relationship-first commercial funding conversations, practical referral partner enablement, and white-labeled Moonshine Capital funding resources.
 
+## Source-to-Variant Rule
+
+Darwin files are **partner-specific variants** based on reusable patterns and canonical source assets.
+
+Use this hierarchy:
+
+```text
+templates/ = blank reusable frameworks
+referral-partner-assets/ = canonical audience-specific source assets
+scripts/ = canonical reusable scripts
+trackers/ = canonical reusable tracker templates
+launch-kits/darwin-hanneman/ = Darwin-specific variants and launch assets
+exports/ = final PDFs, Google Docs, Canva files, and other generated outputs
+```
+
+Future partners should be generated from canonical assets first, then customized only where needed.
+
+Do not duplicate canonical source assets into launch kits unless the partner version includes Darwin-specific contact info, QR/application link, target lanes, local market notes, launch positioning, or custom outreach emphasis.
+
 ## Partner Positioning
 
 Darwin Hanneman is positioned as a relationship-first commercial funding partner backed by Moonshine Capital.
@@ -30,6 +49,23 @@ The first launch-kit goal is not to make Darwin sound like a funding encyclopedi
 
 > “I know someone who needs this.”
 
+## Canonical Source Relationship
+
+Some Darwin assets are partner-specific variants based on reusable canonical source assets in `referral-partner-assets/`.
+
+Use canonical assets for future partners, then generate partner-specific variants only when partner personalization is needed.
+
+Examples:
+
+| Canonical Source | Darwin Variant |
+|---|---|
+| `referral-partner-assets/bank-managers/one-pager.md` | `one-pagers/bank-manager-referral-one-pager.md` |
+| `referral-partner-assets/bank-managers/printable-handout.md` | `handouts/printable-bank-manager-handout.md` |
+| `referral-partner-assets/accountants/one-pager.md` | `one-pagers/accountant-attorney-referral-one-pager.md` |
+| `referral-partner-assets/attorneys/one-pager.md` | `one-pagers/accountant-attorney-referral-one-pager.md` |
+| `referral-partner-assets/construction/one-pager.md` | `one-pagers/construction-business-funding-one-pager.md` |
+| `referral-partner-assets/construction/printable-handout.md` | `handouts/printable-construction-funding-handout.md` |
+
 ## Active Assets
 
 ### Launch Plan
@@ -46,18 +82,21 @@ The first launch-kit goal is not to make Darwin sound like a funding encyclopedi
 
 ### One-Pagers
 
-- `one-pagers/bank-manager-referral-one-pager.md` — print-ready referral handout for bank managers and business bankers.
-- `one-pagers/accountant-attorney-referral-one-pager.md` — print-ready referral handout for accountants, CPAs, bookkeepers, tax professionals, and small business attorneys.
-- `one-pagers/trucking-equipment-finance-one-pager.md` — print-ready referral handout for trucking, equipment, repair, and construction networks.
-- `one-pagers/construction-business-funding-one-pager.md` — print-ready referral handout for contractors, subcontractors, suppliers, and construction-related connectors.
-- `one-pagers/darwin-general-referral-one-pager.md` — general-purpose referral handout for local connectors and broad business networks.
+- `one-pagers/bank-manager-referral-one-pager.md` — Darwin-specific bank manager variant.
+- `one-pagers/accountant-attorney-referral-one-pager.md` — Darwin-specific accountant / attorney variant.
+- `one-pagers/trucking-equipment-finance-one-pager.md` — Darwin-specific trucking / equipment variant.
+- `one-pagers/construction-business-funding-one-pager.md` — Darwin-specific construction variant.
+- `one-pagers/darwin-general-referral-one-pager.md` — Darwin-specific general referral variant.
+
+### Printable Handouts
+
+- `handouts/printable-bank-manager-handout.md` — Darwin-specific printable bank manager handout.
+- `handouts/printable-accountant-attorney-handout.md` — Darwin-specific printable accountant / attorney handout.
+- `handouts/printable-trucking-equipment-handout.md` — Darwin-specific printable trucking / equipment handout.
+- `handouts/printable-construction-funding-handout.md` — Darwin-specific printable construction handout.
 
 ## Planned / Next Assets
 
-- `handouts/printable-bank-manager-handout.md`
-- `handouts/printable-accountant-attorney-handout.md`
-- `handouts/printable-trucking-equipment-handout.md`
-- `handouts/printable-construction-funding-handout.md`
 - `websites/flash-ui-prompts/darwin-bank-manager-referral-site.md`
 - `websites/flash-ui-prompts/darwin-accountant-referral-site.md`
 - `websites/flash-ui-prompts/darwin-attorney-referral-site.md`
@@ -90,45 +129,18 @@ Strong offer-card examples:
 - Startup Funding Path: Launch Capital for Qualified Founders
 - Business Line Access: Working Capital Without the Weekly Fire Drill
 
-## Compliance Guardrails
-
-Avoid universal guarantees, including:
-
-- guaranteed approval
-- everyone qualifies
-- guaranteed same-day funding
-- guaranteed funding amounts
-- guaranteed income
-- credit does not matter
-- we approve what banks deny
-
-Use safer but still direct language:
-
-- same-day funding options may be available
-- up to $25K for eligible files
-- larger funding reviews from $10K to $2M
-- approval, amount, terms, cost, and timing are not guaranteed
-- funding is subject to application, review, provider criteria, and business profile
-
 ## Storage / Publishing Notes
 
-GitHub is the source-of-truth for the markdown asset copy.
+GitHub is the source-of-truth for markdown asset copy.
 
-These files can be converted into:
-
-- printable PDFs
-- Google Docs
-- Canva flyers
-- Wix resource pages
-- Notion launch-kit pages
-- email attachments
-- QR-code referral sheets
+Exports are not source-of-truth. Final PDFs, Google Docs, Canva flyers, Wix resource pages, email attachments, and QR-code referral sheets should be generated from markdown source assets.
 
 ## Suggested Next Production Block
 
 Next recommended block:
 
-1. Create printable handout versions from the one-pagers.
-2. Create Flash-UI prompts for referral landing pages.
-3. Create Wix booking/event copy for Darwin review calls and referral intro calls.
-4. Create NotebookLM prompt pack for ongoing Darwin asset generation.
+1. Generate canonical outreach scripts by audience.
+2. Generate canonical follow-up scripts by audience.
+3. Create Flash-UI prompts for referral landing pages.
+4. Create Wix booking/event copy for Darwin review calls and referral intro calls.
+5. Create NotebookLM prompt pack for ongoing Darwin asset generation.
