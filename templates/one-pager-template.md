@@ -2,7 +2,7 @@
 
 Use this template to create a print-ready, partner-first referral handout for a specific audience, niche, or use case.
 
-This template is based on the Darwin Hanneman trucking / equipment / construction referral one-pager pattern: lead with the referral partner's win, hit real pain points, show concrete capital angles, and keep compliance to one small footer instead of burying the page in legal fog.
+This is a **blank reusable framework**. Canonical audience-specific one-pagers should live under `referral-partner-assets/{audience}/`. Partner-specific variants should live under `launch-kits/{partner-name}/` only when materially customized.
 
 ## Asset Status
 
@@ -11,6 +11,22 @@ This template is based on the Darwin Hanneman trucking / equipment / constructio
 - Audience: Partner | Referral Partner | Client-Facing | Internal Operator
 - Source: Reusable template
 - Last reviewed: 2026-05-03
+
+## Source-to-Variant Rule
+
+Use this sequence:
+
+```text
+templates/one-pager-template.md
+        ↓
+referral-partner-assets/{audience}/one-pager.md
+        ↓
+launch-kits/{partner-name}/one-pagers/{audience-or-niche}-one-pager.md
+        ↓
+exports / Google Docs / PDFs / Canva / Wix
+```
+
+Do not create a partner-specific copy unless the copy includes partner-specific details such as contact information, QR/application link, local market notes, custom launch lanes, or partner-specific positioning.
 
 ## Purpose
 
@@ -23,7 +39,15 @@ The one-pager should answer four questions fast:
 3. What capital options or review paths may help?
 4. What is the simple next step?
 
-## Recommended Partner Path
+## Recommended Paths
+
+Canonical source path:
+
+```text
+referral-partner-assets/{audience}/one-pager.md
+```
+
+Partner variant path:
 
 ```text
 launch-kits/{partner-name}/one-pagers/{audience-or-niche}-one-pager.md
@@ -69,13 +93,6 @@ Use names like:
 
 [Open with the referral source's opportunity, not the funding product. Make it clear they can help their network solve painful capital problems, protect relationships, save stalled deals, and potentially create a referral revenue channel.]
 
-Example headline patterns:
-
-- Turn Cash-Flow Problems Into Saved Deals, Helped Customers & Referral Revenue
-- Your Network Already Needs Capital. Become the Resource They Call First.
-- Help Customers Move Forward When Funding Is the Bottleneck
-- Turn Stalled Deals Into Funding Conversations
-
 ---
 
 ## Fast Capital. Real Business Problems. One Simple Application.
@@ -85,15 +102,6 @@ Example headline patterns:
 - [Simple process or no-obligation angle]
 - [Top 3–5 relevant funding categories]
 - [Audience-specific benefit]
-
-Example:
-
-- Same-day funding options may be available
-- Up to $25K for urgent business needs
-- Larger funding reviews from $10K to $2M
-- Equipment, truck, invoice, working capital, and growth funding paths
-- Simple application
-- No obligation to accept an offer
 
 ---
 
@@ -113,7 +121,7 @@ You may be able to:
 
 # [Pain Point 1: Emotionally Specific Situation]
 
-[Describe one painful, recognizable situation in short, punchy copy. Avoid generic bullets. Make the reader think, “I know someone dealing with this.”]
+[Describe one painful, recognizable situation in short, punchy copy.]
 
 **Best capital angle:** [Offer 1], [Offer 2], or [Offer 3].
 
@@ -121,7 +129,7 @@ You may be able to:
 
 # [Pain Point 2: Emotionally Specific Situation]
 
-[Describe the second pain point. Tie it to the audience's customers, clients, or network.]
+[Describe the second pain point.]
 
 **Best capital angle:** [Offer 1], [Offer 2], or [Offer 3].
 
@@ -129,7 +137,7 @@ You may be able to:
 
 # [Pain Point 3: Emotionally Specific Situation]
 
-[Describe the third pain point. Keep it vivid, practical, and conversion-focused.]
+[Describe the third pain point.]
 
 **Best capital angle:** [Offer 1], [Offer 2], or [Offer 3].
 
@@ -191,12 +199,6 @@ For [specific business owner profile] who need [specific capital use case].
 
 ---
 
-## [Optional Offer Name 4]
-
-Use only if the one-pager has room and the offer strongly matches the audience.
-
----
-
 # Why This Helps You Win
 
 [Speak to the referral source's upside. Keep this short and partner-centered.]
@@ -232,17 +234,6 @@ Not ideal for people with no active business, no revenue or repayment path, no c
 # Know Someone Who Needs Capital?
 
 [Short CTA sentence focused on the next action.]
-
-Example:
-
-One stop. Multiple funding paths. Simple application. No obligation.
-
-Help them explore options for:
-
-- [Use case 1]
-- [Use case 2]
-- [Use case 3]
-- [Use case 4]
 
 ## Scan to Start the Funding Review
 
@@ -293,5 +284,5 @@ This can be adapted into:
 
 - `templates/handout-print-template.md`
 - `templates/outreach-script-pack-template.md`
-- `systems/github/markdown-asset-standards.md`
-- `launch-kits/darwin-hanneman/one-pagers/trucking-equipment-finance-one-pager.md`
+- `systems/github/asset-source-map.md`
+- `systems/github/source-to-partner-variant-rules.md`
