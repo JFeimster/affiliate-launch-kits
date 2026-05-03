@@ -1,369 +1,261 @@
-# Trucking / Equipment / Construction Referral One-Pager Plan
+# Business Funding Referral Resource
 
-**Partner:** Darwin Hanneman  
-**Brand:** Moonshine Capital  
-**Audience:** Equipment Dealers, Repair Shops, Trucking Contacts, Contractors, Suppliers, Construction-Related Business Connectors  
-**Asset Type:** Referral Partner One-Pager Plan  
-**Version:** v1  
+**For Trucking, Equipment, Repair & Construction Networks**  
+**Powered by Moonshine Capital**  
+**Partner Contact:** Darwin Hanneman
 
 ---
 
-## Strategic Direction
+# Turn Cash-Flow Problems Into Saved Deals, Helped Customers & Referral Revenue
 
-This one-pager should be partner-first, pain-first, offer-specific, referral-revenue-aware, print-ready, and conversion-focused.
+Your network already knows business owners who need capital.
 
-The purpose is not to train the referral partner on every product or process.
+Truckers need repairs.  
+Contractors need materials.  
+Equipment buyers need financing.  
+Crews need payroll.  
+Jobs start before invoices pay.  
+Banks move slow.  
+Sales stall because funding gets in the way.
 
-The purpose is to make the referral source immediately understand:
+You do not need to become a lender.
 
-- their network already has business owners with capital problems
-- those funding problems are killing sales, jobs, repairs, loads, and opportunities
-- they can become a valuable resource for their customers and network
-- they may create a new referral revenue channel from problems already happening around them
-- Darwin and Moonshine Capital handle the funding review behind the scenes
+You just need a trusted funding resource behind you.
 
-Tone should be direct, energetic, and practical. Avoid generic funding brochure language.
-
----
-
-## Approved Layout
-
-### 1. Header / Identity Strip
-
-Use a tight identity strip that establishes what the page is and who it is for.
-
-Recommended copy:
-
-```text
-Business Funding Referral Resource
-For Trucking, Equipment, Repair & Construction Networks
-Powered by Moonshine Capital | Partner Contact: Darwin Hanneman
-```
-
-Do not include a biography or long explanation of Darwin.
+Darwin Hanneman and Moonshine Capital help business owners explore funding options so they can keep moving when cash flow, equipment, repairs, payroll, invoices, or job costs become the bottleneck.
 
 ---
 
-### 2. Big Partner-Centered Headline
+## Fast Capital. Real Business Problems. One Simple Application.
 
-The headline should make the referral source see the opportunity for themselves.
-
-Approved headline direction:
-
-```text
-Turn Cash-Flow Problems Into Saved Deals, Helped Customers & Referral Revenue.
-```
-
-Alternative headline:
-
-```text
-Your Network Already Needs Capital. Become the Resource They Call First.
-```
-
-The headline should focus on the partner's win: saved customers, saved sales, helped relationships, and referral revenue.
+- Same-day funding options may be available
+- Up to $25K for urgent business needs
+- Larger funding reviews from $10K to $2M
+- Equipment, truck, invoice, working capital, and growth funding paths
+- Simple application
+- No obligation to accept an offer
 
 ---
 
-### 3. Partner Opportunity Box
+## If Your Network Has Business Owners With Funding Problems, You Can Become the Plug
 
-This replaces the earlier generic “who to refer” section.
+If your customers, clients, vendors, buyers, drivers, contractors, or business contacts get stuck because money timing is ugly, you can become the person who points them toward a real next step.
 
-Section title:
+That means you may be able to:
 
-```text
-If Your Network Includes Business Owners Who Get Stuck Because of Cash Flow, You Can Become the Plug.
-```
+- help customers solve urgent money problems
+- save sales, jobs, loads, repairs, and relationships that may otherwise stall
+- give your network access to capital options without becoming the lender
+- create a referral revenue channel from problems already happening around you
+- let Darwin handle the funding conversation while you stay focused on your business
 
-Core angle:
-
-```text
-Truckers, contractors, equipment buyers, repair customers, and small business owners run into funding problems every day. Repairs hit. Payroll hits. Jobs start before invoices pay. Banks move slow. Equipment sales stall.
-
-You do not need to become a lender. You just need a trusted funding resource behind you.
-
-Darwin and Moonshine Capital handle the funding review. You become the person who helped them move forward.
-```
-
-Mini-benefits:
-
-```text
-Help customers solve urgent money problems.
-Save sales, jobs, loads, repairs, and relationships that may otherwise stall.
-Create a referral revenue channel from problems already happening in your network.
-```
-
-This section should make the referral source think: “I already know people dealing with this.”
+When funding is the wall, you can be the door.
 
 ---
 
-### 4. Three Pain Points That Slap
+# The Truck Is Down. Revenue Is Bleeding.
 
-Use only three emotionally specific pain blocks. Avoid a long generic use-case list.
+When a truck, trailer, machine, or key piece of equipment breaks, the business is not “waiting.”
 
-#### Pain Point 1 — The Truck Is Down. Revenue Is Bleeding.
+It is losing money by the hour.
 
-Copy angle:
+The load gets missed.  
+The job gets delayed.  
+The customer gets frustrated.  
+The owner still has bills, payroll, fuel, insurance, and repair costs staring them in the face.
 
-```text
-When a truck, trailer, or machine breaks, the business is not “waiting.” It is losing money by the hour. The load is missed. The job is delayed. The customer is pissed. The owner needs a path before the repair bill turns into a revenue funeral.
-```
+That owner does not need a lecture.
 
-Offer tie-in:
+They need a path.
 
-```text
-Up to $25K same-day business funding for qualified applicants, plus equipment or repair capital paths.
-```
-
-#### Pain Point 2 — The Job Is Ready. The Cash Isn’t.
-
-Copy angle:
-
-```text
-Contractors often need materials, labor, fuel, equipment rentals, deposits, or payroll before the customer or GC pays. The opportunity is real. The work is real. But bad timing can kill a good job before the first shovel hits dirt.
-```
-
-Offer tie-in:
-
-```text
-Working capital, line access, receivables/invoice paths, and larger funding reviews.
-```
-
-#### Pain Point 3 — The Customer Wants to Buy. Funding Is the Wall.
-
-Copy angle:
-
-```text
-For dealers, repair shops, and suppliers, the customer may want to move forward — but cash, credit, bank delays, or financing friction freezes the sale. That stalled deal may not be dead. It may just need a faster funding path.
-```
-
-Offer tie-in:
-
-```text
-Equipment finance, commercial truck finance, and qualified larger-ticket funding options up to $2M.
-```
+**Best capital angle:** Fast Working Capital, Equipment & Truck Financing, or repair-related business funding.
 
 ---
 
-### 5. Sizzling Offer Snapshot
+# The Job Is Ready. The Cash Isn’t.
 
-Use three core offer cards. Include a fourth only if the final design has room.
+Contractors and project-based businesses often need money before the customer, GC, or invoice pays.
 
-Do not over-disclaim inside each offer. Use one short compliance footer at the bottom of the final one-pager.
+Materials are due now.  
+Labor is due now.  
+Equipment rental is due now.  
+Fuel is due now.  
+Payroll is due now.
 
-#### Offer 1 — Fast Business Funding
+The opportunity is real.  
+The work is real.  
+The timing is the problem.
 
-Headline:
+Bad cash timing can kill a good job before the first shovel hits dirt.
 
-```text
-Up to $25K Same-Day Business Funding
-```
-
-Copy:
-
-```text
-For active business owners who need fast capital for repairs, payroll, materials, fuel, insurance, or urgent cash-flow gaps. Personal credit as low as 500 may be considered. No docs may be required for eligible files.
-```
-
-Punch line:
-
-```text
-When the bank is moving too slow and the truck, job, or payroll can’t wait.
-```
-
-#### Offer 2 — Equipment & Commercial Truck Financing
-
-Headline:
-
-```text
-Equipment & Commercial Truck Financing
-```
-
-Copy:
-
-```text
-For trucks, trailers, yellow iron, work vans, machinery, tools, and revenue-producing equipment. Helps customers move forward without draining their cash account.
-```
-
-Punch line:
-
-```text
-A parked truck doesn’t pay bills. A stalled equipment sale doesn’t feed anyone either.
-```
-
-#### Offer 3 — Larger Qualified Funding Reviews
-
-Headline:
-
-```text
-Larger Funding Options Up to $2M
-```
-
-Copy:
-
-```text
-For stronger businesses with revenue, documentation, and bigger capital needs tied to expansion, equipment, contracts, payroll, working capital, or growth.
-```
-
-Punch line:
-
-```text
-Not every business needs a tiny bandage. Some need real capital to take on bigger work.
-```
-
-#### Optional Offer 4 — Invoice & Receivables Funding
-
-Headline:
-
-```text
-Invoice & Receivables Funding
-```
-
-Copy:
-
-```text
-For contractors, trucking companies, subcontractors, and B2B operators waiting on unpaid invoices, freight payments, progress payments, or Net-30/60/90 customers.
-```
-
-Punch line:
-
-```text
-The work is done. The invoice exists. The cash just hasn’t landed yet.
-```
+**Best capital angle:** Fast Working Capital, Business Line Access, Invoice & Receivables Funding, or Larger Funding Reviews.
 
 ---
 
-### 6. Why This Helps You Win
+# The Customer Wants to Buy. Funding Is the Wall.
 
-This section should sell the referral source on why the opportunity matters.
+For equipment dealers, repair shops, suppliers, and vendors, the painful part is not always demand.
 
-Approved copy points:
+The customer wants to move forward.
 
-```text
-Help customers who are stuck because funding is the bottleneck.
-Save sales, jobs, repairs, loads, and relationships that may otherwise die.
-Give your network access to a funding resource without becoming the lender.
-Create a referral revenue stream from problems already happening around you.
-Let Darwin handle the funding conversation while you stay focused on your business.
-```
+They want the truck.  
+They want the trailer.  
+They want the equipment.  
+They want the repair done.  
+They want the job started.
+
+But cash, credit, bank delays, or financing friction freezes the sale cold.
+
+That stalled deal may not be dead.
+
+It may just need a faster funding path.
+
+**Best capital angle:** Equipment & Truck Financing, Fast Working Capital, or Larger Funding Reviews.
 
 ---
 
-### 7. Best-Fit Referral Snapshot
+# Capital Options That Help Customers Move Again
 
-Keep this short. This is a filter, not a training lecture.
+## Fast Working Capital: Up to $25K for Urgent Business Needs
 
-Approved copy:
+For active business owners who need money moving fast for repairs, payroll, materials, fuel, insurance, emergency expenses, or short-term cash-flow gaps.
 
-```text
+**Highlights:**
+
+- Same-day funding may be available
+- Up to $25,000 for eligible files
+- Personal credit as low as 500 may be considered
+- No docs may be required for eligible applicants
+- Fast review for active businesses with revenue
+
+**Best fit:** when the bank is moving too slow and the truck, job, repair, or payroll cannot wait.
+
+**Trigger line:**  
+When cash flow is the only thing stopping the business from moving, this gives them a faster path than waiting around for a bank committee to wake up.
+
+---
+
+## Equipment & Truck Financing: Keep Cash in the Business
+
+For business owners who need trucks, trailers, yellow iron, work vans, machinery, tools, shop equipment, or revenue-producing equipment without draining their cash reserves.
+
+**Highlights:**
+
+- Commercial truck and trailer financing
+- Heavy equipment and machinery financing
+- Business-use vehicle financing
+- Equipment purchases, upgrades, or replacements
+- Designed for equipment that helps the business generate revenue
+
+**Best fit:** when the customer needs the asset to make money, but paying cash would choke the business.
+
+**Trigger line:**  
+A parked truck does not pay bills. A stalled equipment sale does not feed anyone either.
+
+---
+
+## Invoice & Receivables Funding: Stop Waiting to Get Paid
+
+For contractors, trucking companies, subcontractors, suppliers, and B2B operators waiting on unpaid invoices, freight payments, progress payments, or Net-30 / Net-60 / Net-90 customers.
+
+**Highlights:**
+
+- Turn unpaid invoices into working capital
+- Useful for contractors, subcontractors, trucking, logistics, and B2B operators
+- Helps bridge the gap between completed work and collected cash
+- Can support payroll, materials, fuel, vendors, or operating costs
+
+**Best fit:** when the work is done, the invoice exists, but the cash has not landed yet.
+
+**Trigger line:**  
+“Money coming later” does not cover payroll today.
+
+---
+
+## Larger Funding Reviews: Up to $2M for Qualified Businesses
+
+For stronger businesses with revenue, documentation, and bigger capital needs tied to expansion, equipment, contracts, payroll, working capital, refinancing, or growth.
+
+**Highlights:**
+
+- Funding reviews from $10,000 up to $2,000,000
+- Larger capital options for qualified businesses
+- Terms may range from short-term working capital to longer structured options
+- Useful for growth, equipment, expansion, project capital, and operational scale
+- Best for businesses with stronger revenue, documentation, and repayment profile
+
+**Best fit:** when the business needs more than a tiny cash-flow bandage.
+
+**Trigger line:**  
+Some businesses do not need a little emergency cash. They need real capital to take on bigger work without crawling back to the bank every time opportunity knocks.
+
+---
+
+# Why This Helps You Win
+
+You already see the problem.
+
+A customer cannot buy.  
+A repair cannot start.  
+A job cannot mobilize.  
+A load cannot move.  
+A contractor cannot float payroll.  
+A business owner cannot wait three weeks for a bank to maybe say “not right now.”
+
+Instead of watching the opportunity die, you can point them to Darwin.
+
+You help the customer.  
+You protect the relationship.  
+You may save the deal.  
+You create a new referral revenue opportunity.
+
+Darwin and Moonshine Capital handle the funding review.
+
+You become the valuable connector.
+
+---
+
+# Best-Fit Referrals
+
 Best-fit referrals usually have:
 
-An active business
-Business revenue
-A real use for funds
-A time-sensitive cash need
-Equipment, repair, payroll, materials, invoice, or working-capital pressure
-Willingness to complete a short application
-```
+- an active business
+- business revenue
+- a real use for funds
+- a time-sensitive cash need
+- equipment, repair, payroll, materials, invoice, working capital, or growth pressure
+- willingness to complete a short application
 
-Optional not-ideal line:
-
-```text
 Not ideal for people with no active business, no revenue, no repayment path, or expectations of guaranteed approval.
-```
 
 ---
 
-### 8. CTA / QR Box
+# Know Someone Who Needs Capital?
 
-CTA title:
+One stop. Multiple funding paths. Simple application. No obligation.
 
-```text
-Know Someone Who Needs Capital?
-```
+Help them explore options for:
 
-CTA copy:
+- urgent working capital
+- truck or equipment needs
+- unpaid invoices
+- payroll or materials
+- larger business funding
 
-```text
-Refer them to Darwin and help them start a funding review.
-```
+## Scan to Start the Funding Review
 
-QR label:
+**QR Code:** `[Insert QR Code Here]`  
+**Application Link:** `[Insert Darwin Application Link]`
 
-```text
-Scan to Start Funding Review
-```
+**Darwin Hanneman**  
+Commercial Funding Partner  
+Moonshine Capital  
 
-Fields:
-
-```text
-[QR CODE]
-[Darwin Application Link]
-Darwin Hanneman
-Phone | Email
-```
+**Phone:** `[Insert Phone]`  
+**Email:** `[Insert Email]`
 
 ---
 
-### 9. Tiny Footer
+## Footer
 
-Use one small compliance footer at the bottom only.
-
-Approved footer:
-
-```text
 Funding is subject to application, review, provider criteria, and business profile. Approval, amount, terms, cost, and timing are not guaranteed. Moonshine Capital does not provide legal, tax, or accounting advice.
-```
-
----
-
-## Sections to Delete / Avoid
-
-Do not include:
-
-- long fast referral match guide
-- long “what makes a strong referral” section
-- long “what may not be a fit” section
-- long referral process explanation
-- easy way to introduce Darwin section unless reduced to one tiny blurb
-- any section that sounds like internal training
-- repeated product disclaimers
-- repeated “may be reviewed” language
-- generic product catalog language
-- product names that repeat “Moonshine Capital” in every line
-
----
-
-## Approved Final Structure
-
-```text
-1. Header / Identity Strip
-2. Big partner-centered headline
-3. Partner opportunity box
-4. Three emotional pain blocks
-5. Three sizzling offer cards
-6. Why this helps you win
-7. Best-fit referral snapshot
-8. QR / CTA box
-9. Tiny footer
-```
-
-## Product Naming Rule
-
-Product names should be short and white-labeled. Do not include “Moonshine Capital” in every offer name because the brand is already implied.
-
-Use names such as:
-
-- Fast Business Funding
-- Equipment & Commercial Truck Financing
-- Larger Qualified Funding Reviews
-- Invoice & Receivables Funding
-- Business Line Access
-- Flex Revenue Advance Track
-
----
-
-## Next Step
-
-Use this approved plan to generate the final print-ready one-pager copy for:
-
-`launch-kits/darwin-hanneman/one-pagers/trucking-equipment-finance-one-pager.md`
