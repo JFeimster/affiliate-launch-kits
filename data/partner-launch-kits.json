@@ -1,0 +1,61 @@
+[
+  {
+    "id": "darwin-hanneman",
+    "partnerName": "Darwin Hanneman",
+    "slug": "darwin-hanneman",
+    "status": "prototype",
+    "ecosystemBrand": "Moonshine Capital",
+    "partnerType": "funding-partner",
+    "umbrellaTerm": "Partner",
+    "title": "Darwin Hanneman Launch Kit",
+    "summary": "Darwin Hanneman is a relationship-first commercial funding partner backed by Moonshine Capital. His launch strategy focuses on referral partners who already know business owners with funding problems.",
+    "safePositioning": "Darwin helps business owners explore funding options that may be available based on business profile. Provider criteria apply, and approval, terms, amounts, and timing are not guaranteed.",
+    "restrictedPositioning": "Do not position Darwin as guaranteeing approvals, specific rates, funding amounts, timelines, qualification, or outcomes.",
+    "bestFitLanes": [
+      "Bank managers",
+      "Accountants",
+      "Attorneys",
+      "Equipment dealers",
+      "Trucking businesses",
+      "Construction-related businesses"
+    ],
+    "primaryAudiences": [
+      "bank-managers",
+      "accountants",
+      "attorneys",
+      "equipment-dealers",
+      "trucking-businesses",
+      "construction-related-businesses"
+    ],
+    "launchObjectives": [
+      "Build referral relationships with professionals who already know business owners with funding problems.",
+      "Give referral partners a responsible next step when traditional financing is delayed, unavailable, or not the right fit today.",
+      "Use compliant language that keeps expectations clear and avoids unsafe claims.",
+      "Create a repeatable launch kit structure that future Partners can clone."
+    ],
+    "recommendedAssets": [
+      "bank-manager-referral-handout",
+      "referral-partner-outreach-kit",
+      "business-funding-conversation-script",
+      "what-to-say-when-client-asks-about-rates",
+      "partner-weekly-review-template",
+      "compliance-safe-funding-language-guide"
+    ],
+    "resourceIds": [
+      "darwin-hanneman-launch-kit",
+      "bank-manager-referral-handout",
+      "referral-partner-outreach-kit",
+      "business-funding-conversation-script",
+      "what-to-say-when-client-asks-about-rates",
+      "partner-weekly-review-template",
+      "compliance-safe-funding-language-guide"
+    ],
+    "profilePage": "/pages/darwin-hanneman.html",
+    "sourceFolder": "launch-kits/darwin-hanneman/",
+    "downloadUrl": "",
+    "featured": true,
+    "complianceReviewed": false,
+    "lastUpdated": "2026-05-07",
+    "order": 1
+  }
+]
