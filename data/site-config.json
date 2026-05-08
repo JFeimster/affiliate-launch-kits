@@ -1,0 +1,59 @@
+{
+  "siteName": "Partner Enablement OS",
+  "brandName": "Moonshine Capital",
+  "tagline": "Launch-ready resources for Partners, operators, and referral relationships.",
+  "description": "A lightweight static resource hub for Partner onboarding, launch kits, referral assets, scripts, trackers, prompts, and compliance-safe funding language.",
+  "oneLinePositioning": "Partner Enablement OS helps Partners launch faster, explain funding responsibly, start better conversations, and use reusable assets without hunting through scattered folders.",
+  "canonicalUrl": "https://partner-enablement-os.vercel.app/",
+  "repoUrl": "https://github.com/JFeimster/partner-enablement-os",
+  "deploymentTarget": "https://partner-enablement-os.vercel.app/",
+  "ecosystemRole": "Moonshine Capital is the ecosystem brand behind this Partner resource layer.",
+  "primaryAudience": [
+    "Funding partners",
+    "Referral partners",
+    "Affiliate partners",
+    "Operators",
+    "Brokers",
+    "Future channel partners"
+  ],
+  "primaryCtaLabel": "Browse Partner Resources",
+  "primaryCtaUrl": "/pages/partner-resource-library.html",
+  "secondaryCtaLabel": "View Launch Kits",
+  "secondaryCtaUrl": "/pages/launch-kits.html",
+  "complianceDisclaimer": "Funding options, approvals, terms, amounts, and timing are not guaranteed. Provider criteria apply and available options depend on the business profile.",
+  "approvedFundingLanguage": [
+    "explore funding options",
+    "may be available",
+    "based on business profile",
+    "provider criteria apply",
+    "approval, terms, amounts, and timing are not guaranteed"
+  ],
+  "restrictedFundingLanguage": [
+    "guaranteed approval",
+    "everyone qualifies",
+    "credit does not matter",
+    "same-day funding for everyone",
+    "any amount available",
+    "we approve what banks deny"
+  ],
+  "seo": {
+    "title": "Partner Enablement OS | Moonshine Capital",
+    "description": "A polished resource hub for Partner onboarding, launch kits, referral assets, scripts, trackers, prompts, and compliance-safe funding conversations.",
+    "keywords": [
+      "Partner Enablement OS",
+      "Moonshine Capital partners",
+      "partner resource hub",
+      "referral partner assets",
+      "funding partner launch kit",
+      "business funding resources"
+    ],
+    "ogImage": "/assets/images/og/partner-enablement-os-og.png"
+  },
+  "sourceOfTruth": {
+    "github": "GitHub remains the canonical source for static site files and markdown assets.",
+    "googleDrive": "Google Drive is used for exported and shareable assets.",
+    "notion": "Notion is used for dashboard and status tracking.",
+    "vercel": "Vercel is the deployment layer.",
+    "openAIPlatform": "OpenAI Platform may be used later for API-enabled features, agents, secure key setup, and automation workflows."
+  }
+}
