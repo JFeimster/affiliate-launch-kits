@@ -1,0 +1,335 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Partner Resource Library | Partner Enablement OS</title>
+    <meta
+      name="description"
+      content="Search and filter Partner Enablement OS resources, categories, launch assets, scripts, trackers, and compliance guides."
+    >
+    <meta name="robots" content="index,follow">
+    <link rel="canonical" href="https://partner-enablement-os.vercel.app/pages/partner-resource-library.html">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Partner Resource Library | Partner Enablement OS">
+    <meta
+      property="og:description"
+      content="The main searchable resource hub for Moonshine Capital Partners."
+    >
+    <meta property="og:url" content="https://partner-enablement-os.vercel.app/pages/partner-resource-library.html">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+
+  <body>
+    <a class="skip-link" href="#main">Skip to main content</a>
+
+    <div class="site-shell">
+      <header class="site-header" aria-label="Site header">
+        <div class="container nav-wrap">
+          <a class="brand-lockup" href="/index.html" aria-label="Partner Enablement OS home">
+            <span class="brand-mark" aria-hidden="true">PE</span>
+            <span class="brand-text">
+              <span class="brand-name" data-brand-name>Partner Enablement OS</span>
+              <span class="brand-kicker" data-brand-kicker>Moonshine Capital</span>
+            </span>
+          </a>
+
+          <button
+            class="nav-toggle"
+            type="button"
+            aria-label="Toggle navigation"
+            aria-expanded="false"
+            data-nav-toggle
+          >
+            <span class="nav-toggle-lines" aria-hidden="true"></span>
+          </button>
+
+          <nav class="primary-nav" aria-label="Primary navigation" data-site-nav>
+            <a href="/index.html">Home</a>
+            <a href="/pages/getting-started.html">Start Here</a>
+            <a href="/pages/partner-resource-library.html" aria-current="page">Resources</a>
+            <a href="/pages/launch-kits.html">Launch Kits</a>
+            <a href="/pages/referral-partner-assets.html">Referral Assets</a>
+            <a href="/pages/scripts.html">Scripts</a>
+            <a href="/pages/trackers.html">Trackers</a>
+            <a href="/pages/prompts.html">Prompts</a>
+            <a href="/pages/compliance.html">Compliance</a>
+          </nav>
+
+          <a class="header-cta" href="/pages/compliance.html">Safe Language</a>
+        </div>
+      </header>
+
+      <main id="main">
+        <section class="hero" aria-labelledby="page-title">
+          <div class="container hero-grid">
+            <div class="hero-copy reveal">
+              <p class="eyebrow">Resource Library</p>
+              <h1 id="page-title">Find the right Partner asset before your tabs start breeding.</h1>
+              <p class="hero-lede">
+                Search and filter launch plans, trackers, scripts, referral assets,
+                compliance guides, and prompt packs. Everything is built around responsible
+                Partner communication and Moonshine Capital’s source-of-truth workflow.
+              </p>
+
+              <div class="hero-actions" aria-label="Primary actions">
+                <a class="button button-primary" href="#search">Search Resources</a>
+                <a class="button button-secondary" href="#filters">Filter Library</a>
+              </div>
+
+              <div class="hero-meta" aria-label="Library stats">
+                <span class="pill"><strong>Resources</strong> <span data-resource-count>0</span></span>
+                <span class="pill"><strong>Search</strong> Client-side</span>
+                <span class="pill"><strong>Data</strong> Local JSON</span>
+              </div>
+            </div>
+
+            <aside class="command-panel reveal" aria-labelledby="library-panel-title">
+              <div class="panel-top">
+                <div>
+                  <p class="panel-label">Library Console</p>
+                  <h2 id="library-panel-title">How to use it</h2>
+                </div>
+                <span class="status-dot">JSON Ready</span>
+              </div>
+
+              <ol class="panel-list">
+                <li class="panel-item">
+                  <span class="panel-num">01</span>
+                  <div>
+                    <h3>Search first</h3>
+                    <p>Use plain language like “bank manager,” “rates,” “Daily 5,” or “Darwin.”</p>
+                  </div>
+                  <span class="panel-tag">Search</span>
+                </li>
+                <li class="panel-item">
+                  <span class="panel-num">02</span>
+                  <div>
+                    <h3>Filter next</h3>
+                    <p>Narrow by category, Partner type, status, or featured resources.</p>
+                  </div>
+                  <span class="panel-tag">Filter</span>
+                </li>
+                <li class="panel-item">
+                  <span class="panel-num">03</span>
+                  <div>
+                    <h3>Check compliance</h3>
+                    <p>Funding-related copy must avoid guarantees and use provider criteria language.</p>
+                  </div>
+                  <span class="panel-tag">Review</span>
+                </li>
+              </ol>
+            </aside>
+          </div>
+        </section>
+
+        <section class="section section-tight" id="search" aria-labelledby="search-title">
+          <div class="container">
+            <div class="section-header reveal">
+              <p class="eyebrow">Search</p>
+              <h2 id="search-title">Search across resources, categories, launch kits, and safe language.</h2>
+              <p>
+                Search results are built from local JSON data. No database, no external
+                dependency, no SaaS raccoon hiding under the floorboards.
+              </p>
+            </div>
+
+            <div class="card reveal">
+              <label class="panel-label" for="site-search">Search the resource hub</label>
+              <input
+                id="site-search"
+                data-site-search
+                type="search"
+                placeholder="Try: bank manager, rates, Daily 5, compliance, Darwin"
+                aria-describedby="search-help"
+                style="width: 100%; margin-top: 0.75rem; padding: 1rem 1.1rem; border: 1px solid var(--color-line-soft); border-radius: var(--radius-md); background: rgba(255, 255, 255, 0.045); color: var(--color-text);"
+              >
+              <p id="search-help" class="small-print" style="margin-top: 0.75rem;">
+                Showing <span data-search-count>0</span> search results.
+              </p>
+            </div>
+
+            <div class="disclaimer reveal" data-search-empty hidden>
+              <p>
+                No matches found. Try a broader term like “compliance,” “referral,”
+                “tracker,” “script,” or “Partner.”
+              </p>
+            </div>
+
+            <div class="grid grid-3" data-search-results aria-live="polite" style="margin-top: 1.35rem;"></div>
+          </div>
+        </section>
+
+        <section class="section" id="filters" aria-labelledby="filters-title">
+          <div class="container">
+            <div class="section-header reveal">
+              <p class="eyebrow">Filters</p>
+              <h2 id="filters-title">Narrow the library by job-to-be-done.</h2>
+              <p>
+                Use filters when you already know the asset type you need. If you are not
+                sure, search first and let the JSON gremlins do something useful for once.
+              </p>
+            </div>
+
+            <div class="grid grid-4">
+              <div class="card reveal">
+                <label class="panel-label" for="filter-category">Category</label>
+                <select
+                  id="filter-category"
+                  data-resource-filter
+                  data-filter-key="category"
+                  style="width: 100%; margin-top: 0.75rem; padding: 0.9rem; border: 1px solid var(--color-line-soft); border-radius: var(--radius-sm); background: #10141d; color: var(--color-text);"
+                >
+                  <option value="">All categories</option>
+                  <option value="getting-started">Getting Started</option>
+                  <option value="daily-actions">Daily Actions</option>
+                  <option value="lead-generation">Lead Generation</option>
+                  <option value="referral-partner-outreach">Referral Partner Outreach</option>
+                  <option value="product-training">Product Training</option>
+                  <option value="crm-tracking">CRM & Tracking</option>
+                  <option value="social-media-assets">Social Media Assets</option>
+                  <option value="email-scripts">Email Scripts</option>
+                  <option value="compliance">Compliance</option>
+                  <option value="deal-submission">Deal Submission</option>
+                  <option value="faq">FAQ</option>
+                  <option value="recommended-tools">Recommended Tools</option>
+                </select>
+              </div>
+
+              <div class="card reveal">
+                <label class="panel-label" for="filter-partner-type">Partner Type</label>
+                <select
+                  id="filter-partner-type"
+                  data-resource-filter
+                  data-filter-key="partnerType"
+                  style="width: 100%; margin-top: 0.75rem; padding: 0.9rem; border: 1px solid var(--color-line-soft); border-radius: var(--radius-sm); background: #10141d; color: var(--color-text);"
+                >
+                  <option value="">All Partner types</option>
+                  <option value="funding-partner">Funding Partner</option>
+                  <option value="referral-partner">Referral Partner</option>
+                  <option value="affiliate-partner">Affiliate Partner</option>
+                  <option value="operator">Operator</option>
+                  <option value="broker">Broker</option>
+                  <option value="channel-partner">Channel Partner</option>
+                </select>
+              </div>
+
+              <div class="card reveal">
+                <label class="panel-label" for="filter-status">Status</label>
+                <select
+                  id="filter-status"
+                  data-resource-filter
+                  data-filter-key="status"
+                  style="width: 100%; margin-top: 0.75rem; padding: 0.9rem; border: 1px solid var(--color-line-soft); border-radius: var(--radius-sm); background: #10141d; color: var(--color-text);"
+                >
+                  <option value="">All statuses</option>
+                  <option value="planned">Planned</option>
+                  <option value="draft">Draft</option>
+                  <option value="prototype">Prototype</option>
+                  <option value="published">Published</option>
+                </select>
+              </div>
+
+              <div class="card reveal">
+                <label class="panel-label" for="filter-featured">Featured</label>
+                <select
+                  id="filter-featured"
+                  data-resource-filter
+                  data-filter-key="featured"
+                  style="width: 100%; margin-top: 0.75rem; padding: 0.9rem; border: 1px solid var(--color-line-soft); border-radius: var(--radius-sm); background: #10141d; color: var(--color-text);"
+                >
+                  <option value="">All resources</option>
+                  <option value="true">Featured only</option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="section section-tight" aria-labelledby="featured-title">
+          <div class="container">
+            <div class="section-header reveal">
+              <p class="eyebrow">Featured Resources</p>
+              <h2 id="featured-title">Start here when you need the important stuff.</h2>
+              <p>
+                Featured resources are the current priority assets for Partner activation,
+                referral outreach, tracking, prompts, launch kits, and compliance.
+              </p>
+            </div>
+
+            <div class="grid grid-3" data-featured-resources data-limit="6"></div>
+          </div>
+        </section>
+
+        <section class="section" aria-labelledby="categories-title">
+          <div class="container">
+            <div class="section-header reveal">
+              <p class="eyebrow">Categories</p>
+              <h2 id="categories-title">Browse by operating lane.</h2>
+              <p>
+                Categories map the resource hub to real Partner work: onboarding,
+                daily actions, lead generation, referral outreach, scripts, tracking,
+                compliance, and tools.
+              </p>
+            </div>
+
+            <div class="grid grid-3" data-resource-category-grid></div>
+          </div>
+        </section>
+
+        <section class="section section-tight" aria-labelledby="all-resources-title">
+          <div class="container">
+            <div class="section-header reveal">
+              <p class="eyebrow">All Resources</p>
+              <h2 id="all-resources-title">The JSON-powered card wall.</h2>
+              <p>
+                These cards are rendered from <span class="pill">data/resources.json</span>.
+                Empty download URLs are intentionally ignored so nobody gets sent to a broken asset graveyard.
+              </p>
+            </div>
+
+            <div class="grid grid-3" data-resource-grid></div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <div class="container footer-grid">
+          <div>
+            <a class="brand-lockup" href="/index.html" aria-label="Partner Enablement OS home">
+              <span class="brand-mark" aria-hidden="true">PE</span>
+              <span class="brand-text">
+                <span class="brand-name" data-brand-name>Partner Enablement OS</span>
+                <span class="brand-kicker" data-brand-kicker>Moonshine Capital</span>
+              </span>
+            </a>
+            <p class="small-print" style="margin-top: 1rem;">
+              © <span data-current-year></span> Moonshine Capital. Partner Enablement OS is a
+              static resource hub for Partner education, activation, and compliant resource delivery.
+            </p>
+            <p class="small-print">
+              Funding options, approvals, terms, amounts, and timing are not guaranteed.
+              Provider criteria apply and available options depend on the business profile.
+            </p>
+          </div>
+
+          <nav class="footer-links" aria-label="Footer navigation" data-footer-nav>
+            <a href="/index.html">Home</a>
+            <a href="/pages/getting-started.html">Start Here</a>
+            <a href="/pages/partner-resource-library.html">Resources</a>
+            <a href="/pages/launch-kits.html">Launch Kits</a>
+            <a href="/pages/referral-partner-assets.html">Referral Assets</a>
+            <a href="/pages/scripts.html">Scripts</a>
+            <a href="/pages/trackers.html">Trackers</a>
+            <a href="/pages/prompts.html">Prompts</a>
+            <a href="/pages/compliance.html">Compliance</a>
+          </nav>
+        </div>
+      </footer>
+    </div>
+
+    <script src="/assets/js/app.js" defer></script>
+    <script src="/assets/js/resources.js" defer></script>
+    <script src="/assets/js/search.js" defer></script>
+  </body>
+</html>
