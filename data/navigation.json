@@ -1,0 +1,65 @@
+[
+  {
+    "label": "Home",
+    "url": "/index.html",
+    "description": "Partner Enablement OS homepage.",
+    "order": 1,
+    "visible": true
+  },
+  {
+    "label": "Start Here",
+    "url": "/pages/getting-started.html",
+    "description": "First steps for new Partners.",
+    "order": 2,
+    "visible": true
+  },
+  {
+    "label": "Resources",
+    "url": "/pages/partner-resource-library.html",
+    "description": "Searchable Partner resource library.",
+    "order": 3,
+    "visible": true
+  },
+  {
+    "label": "Launch Kits",
+    "url": "/pages/launch-kits.html",
+    "description": "Partner-specific launch kits and activation paths.",
+    "order": 4,
+    "visible": true
+  },
+  {
+    "label": "Referral Assets",
+    "url": "/pages/referral-partner-assets.html",
+    "description": "Handouts, scripts, and explainers for referral relationships.",
+    "order": 5,
+    "visible": true
+  },
+  {
+    "label": "Scripts",
+    "url": "/pages/scripts.html",
+    "description": "Conversation, email, and follow-up scripts.",
+    "order": 6,
+    "visible": true
+  },
+  {
+    "label": "Trackers",
+    "url": "/pages/trackers.html",
+    "description": "Daily and weekly Partner activity trackers.",
+    "order": 7,
+    "visible": true
+  },
+  {
+    "label": "Prompts",
+    "url": "/pages/prompts.html",
+    "description": "AI prompts for launch kits, scripts, reviews, and resource creation.",
+    "order": 8,
+    "visible": true
+  },
+  {
+    "label": "Compliance",
+    "url": "/pages/compliance.html",
+    "description": "Safe language, restricted claims, and funding disclaimers.",
+    "order": 9,
+    "visible": true
+  }
+]
