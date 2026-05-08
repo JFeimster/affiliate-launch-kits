@@ -1,0 +1,327 @@
+[
+  {
+    "id": "new-partner-7-day-launch-plan",
+    "title": "New Partner 7-Day Launch Plan",
+    "description": "A simple first-week plan that helps new Partners understand positioning, outreach rhythm, referral targets, and compliance-safe language.",
+    "category": "getting-started",
+    "resourceType": "launch-plan",
+    "partnerType": [
+      "funding-partner",
+      "affiliate-partner",
+      "operator"
+    ],
+    "audience": [
+      "new-partners",
+      "operators"
+    ],
+    "useCase": [
+      "onboarding",
+      "launch-planning",
+      "first-week-actions"
+    ],
+    "format": "Markdown",
+    "sourcePath": "getting-started/new-partner-7-day-launch-plan.md",
+    "downloadUrl": "",
+    "pageUrl": "/pages/getting-started.html",
+    "status": "planned",
+    "featured": true,
+    "complianceReviewed": false,
+    "ecosystemBrand": "Moonshine Capital",
+    "safeLanguageNotes": "Use Partner as the umbrella term and avoid guarantees about approvals, funding amounts, rates, timelines, qualification, or outcomes.",
+    "lastUpdated": "2026-05-07",
+    "order": 1
+  },
+  {
+    "id": "daily-5-tracker",
+    "title": "Daily 5 Tracker",
+    "description": "A lightweight daily activity tracker for Partner outreach, follow-up, referral partner conversations, and pipeline discipline.",
+    "category": "daily-actions",
+    "resourceType": "tracker",
+    "partnerType": [
+      "funding-partner",
+      "affiliate-partner",
+      "operator"
+    ],
+    "audience": [
+      "active-partners",
+      "operators"
+    ],
+    "useCase": [
+      "activity-tracking",
+      "daily-outreach",
+      "pipeline-discipline"
+    ],
+    "format": "Markdown/Spreadsheet",
+    "sourcePath": "trackers/daily-5-tracker.md",
+    "downloadUrl": "",
+    "pageUrl": "/pages/trackers.html",
+    "status": "planned",
+    "featured": true,
+    "complianceReviewed": false,
+    "ecosystemBrand": "Moonshine Capital",
+    "safeLanguageNotes": "Tracks activity only. It does not imply funding outcomes, approvals, or qualification.",
+    "lastUpdated": "2026-05-07",
+    "order": 2
+  },
+  {
+    "id": "bank-manager-referral-handout",
+    "title": "Bank Manager Referral Handout",
+    "description": "A responsible handout for bank managers who may need a next step when traditional financing is delayed, unavailable, or not the right fit today.",
+    "category": "referral-partner-outreach",
+    "resourceType": "handout",
+    "partnerType": [
+      "funding-partner",
+      "referral-partner",
+      "broker"
+    ],
+    "audience": [
+      "bank-managers",
+      "business-bankers",
+      "credit-union-contacts"
+    ],
+    "useCase": [
+      "referral-partner-outreach",
+      "banker-conversations",
+      "warm-introductions"
+    ],
+    "format": "PDF/Markdown",
+    "sourcePath": "referral-partner-assets/bank-manager-referral-handout.md",
+    "downloadUrl": "",
+    "pageUrl": "/pages/referral-partner-assets.html",
+    "status": "planned",
+    "featured": true,
+    "complianceReviewed": false,
+    "ecosystemBrand": "Moonshine Capital",
+    "safeLanguageNotes": "Position as a responsible way to explore funding options. Do not promise approval, amounts, terms, rates, or timing.",
+    "lastUpdated": "2026-05-07",
+    "order": 3
+  },
+  {
+    "id": "referral-partner-outreach-kit",
+    "title": "Referral Partner Outreach Kit",
+    "description": "A starter kit for approaching professional referral sources including bank managers, accountants, attorneys, equipment dealers, and local connectors.",
+    "category": "referral-partner-outreach",
+    "resourceType": "outreach-kit",
+    "partnerType": [
+      "funding-partner",
+      "affiliate-partner",
+      "broker"
+    ],
+    "audience": [
+      "referral-partners",
+      "professional-connectors",
+      "local-business-connectors"
+    ],
+    "useCase": [
+      "relationship-building",
+      "professional-referrals",
+      "partner-launch"
+    ],
+    "format": "Markdown",
+    "sourcePath": "referral-partner-assets/referral-partner-outreach-kit.md",
+    "downloadUrl": "",
+    "pageUrl": "/pages/referral-partner-assets.html",
+    "status": "planned",
+    "featured": true,
+    "complianceReviewed": false,
+    "ecosystemBrand": "Moonshine Capital",
+    "safeLanguageNotes": "Keep outreach education-first and avoid claims that any business owner will qualify for funding.",
+    "lastUpdated": "2026-05-07",
+    "order": 4
+  },
+  {
+    "id": "business-funding-conversation-script",
+    "title": "Business Funding Conversation Script",
+    "description": "A practical conversation script for helping Partners ask better questions and guide business owners toward exploring possible funding paths.",
+    "category": "email-scripts",
+    "resourceType": "script",
+    "partnerType": [
+      "funding-partner",
+      "broker",
+      "operator"
+    ],
+    "audience": [
+      "business-owners",
+      "partners"
+    ],
+    "useCase": [
+      "client-conversations",
+      "needs-discovery",
+      "funding-readiness"
+    ],
+    "format": "Markdown",
+    "sourcePath": "scripts/business-funding-conversation-script.md",
+    "downloadUrl": "",
+    "pageUrl": "/pages/scripts.html",
+    "status": "planned",
+    "featured": true,
+    "complianceReviewed": false,
+    "ecosystemBrand": "Moonshine Capital",
+    "safeLanguageNotes": "Use exploratory language and explain that provider criteria apply.",
+    "lastUpdated": "2026-05-07",
+    "order": 5
+  },
+  {
+    "id": "what-to-say-when-client-asks-about-rates",
+    "title": "What to Say When a Client Asks About Rates",
+    "description": "A compliance-safe response guide for rate questions that explains why possible terms depend on business profile and provider criteria.",
+    "category": "compliance",
+    "resourceType": "response-guide",
+    "partnerType": [
+      "funding-partner",
+      "broker",
+      "operator"
+    ],
+    "audience": [
+      "partners",
+      "business-owners"
+    ],
+    "useCase": [
+      "objection-handling",
+      "rate-questions",
+      "safe-language"
+    ],
+    "format": "Markdown",
+    "sourcePath": "compliance/what-to-say-when-client-asks-about-rates.md",
+    "downloadUrl": "",
+    "pageUrl": "/pages/compliance.html",
+    "status": "planned",
+    "featured": true,
+    "complianceReviewed": false,
+    "ecosystemBrand": "Moonshine Capital",
+    "safeLanguageNotes": "Do not quote rates, terms, amounts, timing, or qualification unless a provider has issued actual terms for the specific business profile.",
+    "lastUpdated": "2026-05-07",
+    "order": 6
+  },
+  {
+    "id": "darwin-hanneman-launch-kit",
+    "title": "Darwin Hanneman Launch Kit",
+    "description": "A prototype launch kit for Darwin Hanneman, a relationship-first commercial funding partner backed by Moonshine Capital.",
+    "category": "getting-started",
+    "resourceType": "partner-launch-kit",
+    "partnerType": [
+      "funding-partner"
+    ],
+    "audience": [
+      "darwin-hanneman",
+      "operators",
+      "future-launch-kit-builders"
+    ],
+    "useCase": [
+      "partner-profile",
+      "launch-kit",
+      "referral-strategy"
+    ],
+    "format": "Markdown/Page",
+    "sourcePath": "launch-kits/darwin-hanneman/README.md",
+    "downloadUrl": "",
+    "pageUrl": "/pages/darwin-hanneman.html",
+    "status": "prototype",
+    "featured": true,
+    "complianceReviewed": false,
+    "ecosystemBrand": "Moonshine Capital",
+    "safeLanguageNotes": "Position Darwin as a relationship-first Partner who helps business owners explore funding options based on business profile and provider criteria.",
+    "lastUpdated": "2026-05-07",
+    "order": 7
+  },
+  {
+    "id": "compliance-safe-funding-language-guide",
+    "title": "Compliance-Safe Funding Language Guide",
+    "description": "A safe-language guide for Partners covering approved phrases, restricted phrases, disclaimers, and safer rewrites.",
+    "category": "compliance",
+    "resourceType": "guide",
+    "partnerType": [
+      "funding-partner",
+      "referral-partner",
+      "affiliate-partner",
+      "operator",
+      "broker"
+    ],
+    "audience": [
+      "all-partners",
+      "operators"
+    ],
+    "useCase": [
+      "safe-language",
+      "partner-training",
+      "compliance-review"
+    ],
+    "format": "Markdown",
+    "sourcePath": "compliance/compliance-safe-funding-language-guide.md",
+    "downloadUrl": "",
+    "pageUrl": "/pages/compliance.html",
+    "status": "planned",
+    "featured": true,
+    "complianceReviewed": false,
+    "ecosystemBrand": "Moonshine Capital",
+    "safeLanguageNotes": "Use this guide before publishing scripts, handouts, emails, social posts, or launch kit copy.",
+    "lastUpdated": "2026-05-07",
+    "order": 8
+  },
+  {
+    "id": "partner-weekly-review-template",
+    "title": "Partner Weekly Review Template",
+    "description": "A weekly review template for summarizing outreach, referral conversations, follow-ups, stuck opportunities, and next actions.",
+    "category": "crm-tracking",
+    "resourceType": "template",
+    "partnerType": [
+      "funding-partner",
+      "affiliate-partner",
+      "operator"
+    ],
+    "audience": [
+      "active-partners",
+      "operators"
+    ],
+    "useCase": [
+      "weekly-review",
+      "performance-rhythm",
+      "pipeline-review"
+    ],
+    "format": "Markdown/Spreadsheet",
+    "sourcePath": "trackers/partner-weekly-review-template.md",
+    "downloadUrl": "",
+    "pageUrl": "/pages/trackers.html",
+    "status": "planned",
+    "featured": true,
+    "complianceReviewed": false,
+    "ecosystemBrand": "Moonshine Capital",
+    "safeLanguageNotes": "Review activity and process quality without implying guaranteed conversion, funding, or approval outcomes.",
+    "lastUpdated": "2026-05-07",
+    "order": 9
+  },
+  {
+    "id": "prompt-library-starter-pack",
+    "title": "Prompt Library Starter Pack",
+    "description": "A starter pack of prompts for launch kits, scripts, follow-up, resource creation, weekly reviews, and responsible funding language rewrites.",
+    "category": "recommended-tools",
+    "resourceType": "prompt-pack",
+    "partnerType": [
+      "funding-partner",
+      "affiliate-partner",
+      "operator",
+      "broker"
+    ],
+    "audience": [
+      "partners",
+      "operators",
+      "content-builders"
+    ],
+    "useCase": [
+      "ai-assisted-workflows",
+      "resource-creation",
+      "partner-enablement"
+    ],
+    "format": "Markdown",
+    "sourcePath": "prompts/prompt-library-starter-pack.md",
+    "downloadUrl": "",
+    "pageUrl": "/pages/prompts.html",
+    "status": "planned",
+    "featured": true,
+    "complianceReviewed": false,
+    "ecosystemBrand": "Moonshine Capital",
+    "safeLanguageNotes": "Prompts should instruct AI outputs to avoid funding guarantees, unsupported claims, and unsafe qualification language.",
+    "lastUpdated": "2026-05-07",
+    "order": 10
+  }
+]
